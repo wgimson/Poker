@@ -1,0 +1,3 @@
+____________________________________README_____________________________________
+poker.c and poker2.c allow the user to specify five playing cards, suit and
+rank, and then determines the poker hand they represent.
